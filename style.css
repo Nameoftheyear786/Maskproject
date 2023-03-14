@@ -1,0 +1,39 @@
+body
+{
+  color: rgb(0, 55, 255);
+  background-color: rgb(147, 230, 111)
+}
+span
+{
+  font-size: 45px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  margin-top: 20px;
+}
+#status 
+{
+  color: black;
+  font-size: 40px;
+}
+
+.emoji
+{
+font-size:48px;
+}
+.heading
+{
+font-size: 18px;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+label
+{
+font-size: 14px;
+color: #62f11b;
+border-radius: 10px;
+background-color: rgb(5, 100, 43);
+}
